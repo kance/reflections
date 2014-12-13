@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A new repository is created.
+It is necessary so you can organize all the related files under the same repository.
